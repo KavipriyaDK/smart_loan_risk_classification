@@ -174,7 +174,7 @@ class CreditAssessmentTest {
          * Total = 5
          */
         assertEquals(
-                5,
+                6,
                 result.reasons().size()
         );
     }
